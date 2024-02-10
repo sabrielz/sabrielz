@@ -6,20 +6,20 @@
 <img src="./assets/borderseparator.gif" width="100%"/>
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=870&lines=Hey%2C+I'm+Noklent+and+Welcome+to+my+Profile!" alt="Hey, I'm Noklent and Welcome to my Profile! animated typed out" width="85%" align="middle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=870&lines=Hey%2C+I'm+Sabriel+and+Welcome+to+my+Profile!" alt="Hey, I'm Sabriel and Welcome to my Profile! animated typed out" width="85%" align="middle"/>
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 <img src="./assets/borderseparator.gif" width="100%"/>
 
 | <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/> Stats <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>                                                                                                                                        | <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/> Streak <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>                                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-|![Noklent's Github Stats](https://github-readme-stats.vercel.app/api?username=sabrielz&show_icons=true&theme=transparent&align="left") |<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabrielz&theme=transparent](https://streak-stats.demolab.com?user=sabrielz&theme=transparent"/>
+|![Sabriel's Github Stats](https://github-readme-stats.vercel.app/api?username=sabrielz&show_icons=true&theme=transparent&align="left") |<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabrielz&theme=transparent](https://streak-stats.demolab.com?user=sabrielz&theme=transparent"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrielz&theme=transparent"/>
 
 ### Get with in touch
 
-- > [instagram](https://www.instagram.com/noklent0/)
+- > [instagram](https://www.instagram.com/)
 
 ### language and tools
 
@@ -38,7 +38,7 @@
 <img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="Gdrive" width="40" height="40"/>
 <p align="center"> <img src="https://count.getloli.com/get/@:sabrielz&theme=rule34" alt=":visitors" /> </p>
   
-[![An image of @noklent's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/noklent)](https://holopin.io/@noklent)
+<!-- [![An image of @noklent's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/noklent)](https://holopin.io/@noklent) -->
 <img src="./assets/animated-wave.svg" />
 
 
