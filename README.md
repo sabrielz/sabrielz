@@ -56,12 +56,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Protest+Guerrilla&weight=800&siz
 
 <p align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source" align="center">
-    <img align="left" width="49%"
+    <img align="left" width="45%"
       src="https://streak-stats.demolab.com/?user=sabrielz&theme=react&border=61dafb&hide_border=true"
       alt="sabrielz" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" align="center">
-    <img align="right" width="49%"
+    <img align="right" width="45%"
       src="https://github-readme-stats.vercel.app/api?username=sabrielz&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </p>
