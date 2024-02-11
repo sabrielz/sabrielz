@@ -1,13 +1,15 @@
 <img src="./assets/sabriel-animated-wave-top.svg" alt="wave" />
 
-<center>
+<p style="text-align:center">
   <img src="https://readme-typing-svg.demolab.com?font=Protest+Guerrilla&weight=800&size=26&duration=3000&pause=1000&color=00EAD3&center=true&vCenter=true&center=true&random=false&width=500&height=100&lines=Hi%2C+I'm+Sadewo+Brilian+Rafael;Welcome+to+My+Profile">
+<p>
 
+<p style="text-align:center">
   <img src="https://img.shields.io/github/stars/sabrielz?style=flat&logoColor=white&label=Stars&labelColor=gray&color=yellow" alt="Stars">
   <img src="https://img.shields.io/github/followers/sabrielz?style=flat&label=Followers&labelColor=gray&color=blue" alt="Followers">
   <img src="https://komarev.com/ghpvc/?username=sabrielz&style=flat-square&label=Views" alt="Viewers">
   <img src="https://badges.pufler.dev/visits/char-al/sabrielz?color=black&logo=github&style=flat-square" alt="Visitors">
-</center>
+</p>
 
 <br>
 
